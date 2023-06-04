@@ -39,5 +39,4 @@ app.use('/employee', getEmployeeById)
 
 
 
-
 app.listen(3100, ()=>console.log('server started in port 3100'))
